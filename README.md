@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python,ML**
 
-- 💬 Ask me about **Java, Python, ML**
+- 💬 Ask me about **Java, Python, ML, JavaScript**
 
 - 📫 How to reach me **vardanshiwakoti123@gmail.com**    **aaditsharma777@gmail.com**
   
