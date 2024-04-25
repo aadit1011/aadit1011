@@ -16,8 +16,8 @@
 -  🤝I'm eagerly looking forward to collaborating on projects in  ML and data science🤖📊
 
 - ⚡ Fun fact **I love doing what I love.**
-
--😍I love engaging in tasks like "Dance".
+  
+- 😍I love engaging in activities like "Dance".
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
