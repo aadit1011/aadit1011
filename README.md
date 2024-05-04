@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadit Sharma</h1>
 <h3 align="center">"Data Science Entrepreneur | 🎶Dancer" from Nepal</h3>
 <h3 align='center'>Om Namah Shivaya🕉🕉</h3>
-<p align="left"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZjNTNvNnB5dndoeWR4cDhpeWd1YWg3cWt3b3A2bjR2aTc3NGxiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" alt="aadit1011" /> </p>
+<p align="left"> <img align='center' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZjNTNvNnB5dndoeWR4cDhpeWd1YWg3cWt3b3A2bjR2aTc3NGxiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" alt="aadit1011" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadit1011" alt="aadit1011" /></a> </p>
 
