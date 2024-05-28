@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love big {data} and I cannot lie.**
   
-- 😍I love engaging in activities like "Dance".
+- 😍I love engaging in activities like "🎵Dance,📷Photoshoot".
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
