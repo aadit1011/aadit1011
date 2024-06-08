@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadit Sharma</h1>
-<h3 align="center">"Data Science Entrepreneur | 🎶Dancer" from Nepal</h3>
+<!-- <h3 align="center">"Data Science Entrepreneur | 🎶Dancer" from Nepal</h3> -->
 <h3 align='center'>Om Namah Shivaya🕉🕉</h3>
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=aadit1011&label=Profile%20views&color=0e75b6&style=flat" alt="aadit1011" /> </p>
 
@@ -7,17 +7,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZjNTNvNnB5dndoeWR4cDhpeWd1YWg3cWt3b3A2bjR2aTc3NGxiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif">
 
-- 🌱 I’m currently learning **Python,ML**
+<!--- 🌱 I’m currently learning **Python,ML**
 
-- 💬 Ask me about **Java, Python, ML, JavaScript**
+- 💬 Ask me about **Java, Python, ML, JavaScript**-->
 
 - 📫 How to reach me **vardanshiwakoti123@gmail.com**    **aaditsharma777@gmail.com**
   
 -  🤝I'm eagerly looking forward to collaborating on projects in  ML and data science🤖📊
 
-- ⚡ Fun fact **I love big {data} and I cannot lie.**
+<!--- ⚡ Fun fact **I love big {data} and I cannot lie.**-->
   
-- 😍I love engaging in activities like "🎵Dance,📷Photoshoot".
+<!--- 😍I love engaging in activities like "🎵Dance,📷Photoshoot".-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
