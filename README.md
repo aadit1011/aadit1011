@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python,SQL,Pandas,Numpy,Matplotlib**
 
-- 💬 Ask me about **Pandas,  Python** --->
+- 💬 Ask me about **Pandas,  Python** 
 
 - 📫 How to reach me **vardanshiwakoti123@gmail.com**    **aaditsharma777@gmail.com**
   
