@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vardanshiwakoti123@gmail.com**    **aaditsharma777@gmail.com**
   
-- 🤝I'm eagerly looking forward to collaborating on projects in  ML and data science🤖📊
+- 🤝I'm eagerly looking forward to collaborating on data science projects🤖📊
 
 - ⚡ Fun fact **I love big {data} and I cannot lie.**
   
