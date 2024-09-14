@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZjNTNvNnB5dndoeWR4cDhpeWd1YWg3cWt3b3A2bjR2aTc3NGxiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif">
 
-- 🌱 I’m currently learning **Python,SQL,Pandas,Numpy,Matplotlib**
+- 🌱 I’m currently learning **Python, SQL, Pandas, NumPy, Matplotlib**
 
 - 💬 Ask me about **Pandas,  Python** 
 
