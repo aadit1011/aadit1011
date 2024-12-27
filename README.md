@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aadit Sharma</h1>
+<h1 align="center">Hi 👋, I'm Aadit Sharma Shiwakoti</h1>
  <h3 align="center">"Data Scientist👨‍💻| AI / ML🧠 | 💼Businessman | 🎶Dancer" from Nepal</h3> 
 <h3 align='center'>🕉Om Namah Shivaya😍🙏</h3>
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=aadit1011&label=Profile%20views&color=0e75b6&style=flat" alt="aadit1011" /> </p>
