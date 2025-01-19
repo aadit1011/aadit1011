@@ -15,7 +15,7 @@
   
 - 🤝I'm eagerly looking forward to collaborating on data science projects🤖📊
 
-- ⚡ Fun fact **I love big {data} and I cannot lie.**
+- ⚡ Fun fact **I enjoy being my authentic self😎.**
   
 - 😍I love engaging in activities like "🎵Dance,📷Photoshoot".
 
