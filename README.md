@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
-- 💬 Ask me about **Pandas, Python** 
+- 💬 Ask me about **Pandas, Python , ML** 
 
 - 📫 How to reach me **vardanshiwakoti123@gmail.com**    **aaditsharma777@gmail.com**
   
