@@ -64,22 +64,7 @@
 
 ---
 
-## 📊 Data Visualization Example
 
-### Boxplot: "Low Jumping Times"
-
-<p align="center">
-  <img src="https://pplx-res.cloudinary.com/image/upload/v1746694284/user_uploads/68474710/a1ae0420-648d-485c-9c44-7212772ab8e0/1000001095.jpg" alt="Low Jumping Times Boxplot" width="350"/>
-</p>
-
-#### **How to Read This Boxplot**
-
-- **Y-axis:** Represents "Low Jumping Times"
-- **Circles:** Each circle is a data point. Most are clustered at lower values; a few are much higher, indicating **outliers**.
-- **Horizontal Line:** The median (middle value) of the dataset.
-- **Interpretation:** Most values are low, but there are a few unusually high values (outliers), showing variability and possible rare events in the data.
-
----
 
 ## 📈 GitHub Stats
 
