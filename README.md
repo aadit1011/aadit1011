@@ -68,13 +68,13 @@
 ---
 
 
-### 💡 Activity & Vibe
+### 🌐 Professional Showcase
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" alt="Subtle Code Animation" />
 </p>
 
-> *“Where bytes become insights and every line of code tells a story.”*
+> “Crafting solutions with precision and elegance.”
 
 
 ---
