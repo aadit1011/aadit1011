@@ -67,6 +67,15 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aadit1011&theme=gruvbox&column=7&margin-w=10&margin-h=15" alt="GitHub Trophies - Aadit Sharma Shiwakoti" />
+  </a>
+</p>
+
+---
 
 ### 🚀 Code Impact Dashboard
 
