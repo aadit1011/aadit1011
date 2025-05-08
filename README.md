@@ -7,6 +7,13 @@
 </div>
 
 ---
+<h3 align="center">👁️ Profile Visitors</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aadit1011&label=Profile+Views&color=0e75b6&style=flat-square" alt="GitHub Profile Views - Aadit Sharma Shiwakoti" />
+</p>
+
+---
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=800&color=4B0082&center=true&vCenter=true&width=800&lines=Harness+Data+%26+Devotion;Ignite+Creativity+%26+Movement" alt="Dynamic Tagline" />
