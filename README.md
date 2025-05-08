@@ -78,7 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadit1011&layout=compact&theme=dark&hide_border=true" width="500" alt="Top Languages" />
 </p>
 
->"In a world full of noise, I find patterns."
+>**"In a world full of noise, I find patterns."**
 
 
 ---
@@ -92,4 +92,4 @@
 
 ---
 
-> **"Dance through the chaos, code through the patterns, and keep growing through every beat of life."**
+> **"Flow through data, move with purpose, grow with rhythm."**
