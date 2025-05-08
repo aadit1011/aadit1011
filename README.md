@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <em>Blending <strong>science</strong> with <strong>soul</strong>, and <strong>code</strong> with <strong>creativity</strong>.</em>
+  <em>Blending <strong>data</strong> with <strong>discipline</strong>, and <strong>algorithms</strong> with <strong>artistry</strong>.</em>
 </p>
 
 ---
@@ -78,7 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadit1011&layout=compact&theme=dark&hide_border=true" width="500" alt="Top Languages" />
 </p>
 
->**"In a world full of noise, I find patterns."**
+><strong>“In a world full of noise, I find patterns.”</strong>
 
 
 ---
@@ -92,4 +92,4 @@
 
 ---
 
-> **"Flow through data, move with purpose, grow with rhythm."**
+> <strong>“Flow through data, move with purpose, grow with rhythm.”</strong><br/>
