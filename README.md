@@ -68,9 +68,10 @@
 ---
 
 
-### 🔥 GitHub Streak
+### 🐍 GitHub Contribution Snake
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadit1011&theme=radical&hide_border=true)
+![Contribution Snake](https://raw.githubusercontent.com/aadit1011/aadit1011/master/github-contribution-grid-snake.svg)
+
 
 ---
 
