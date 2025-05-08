@@ -1,53 +1,55 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=4000&weight=600&color=6366F1&center=true&vCenter=true&width=1000&lines=Om+Namah+Shivaya+🕉;Hi,+I+am+Aadit+Sharma+Shiwakoti+%F0%9F%91%8B;Data+Scientist+%F0%9F%93%8A+%7C+ML+%F0%9F%A7%A0+%7C+AI+Explorer+%F0%9F%94%8E+%7C+Dancer+%F0%9F%92%83%EF%B8%8F;Transforming+Data+into+Intelligence+and+Art" alt="Typing Animation Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=4000&weight=600&color=6366F1&center=true&vCenter=true&width=900&lines=Welcome+%F0%9F%93%9B;Aadit+Sharma+Shiwakoti;Data+Scientist+%E2%9A%99%EF%B8%8F+%7C+AI%2FML+%F0%9F%A7%A0+%7C+Business+Architect+%F0%9F%92%BC+%7C+Movement+Artist+%F0%9F%92%83%EF%B8%8F+%7C+Fitness+Freak+%F0%9F%8F%8B%EF%B8%8F;Building+Intelligent+Solutions+Through+Data+%F0%9F%93%8A" alt="Header Typing Animation" />
 </h1>
 
 <div align="center">
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aadit1011.aadit1011)](https://github.com/aadit1011)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aadit1011)
-![Status](https://img.shields.io/badge/Status-Innovating-8A2BE2?style=flat&logo=starship)
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh4eG16OTExYmU2d3V5eG4waHd6ZWs3eGd2MGtxYjRhN2VtMWJvNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCUQzaUjWk3T0eU/giphy.gif" width="120"/>
 </div>
 
 ---
 
-### 🚀 **About Me**
-- **Name**: Aadit Sharma Shiwakoti
-- **Profession**: Aspiring Data Scientist | AI & Machine Learning Explorer
-- **Hobbies**: Dancing, Building Data Projects, Meditation, Fitness & Gym 💪
-- **Spiritual Belief**: *🕉Om Namah Shivaya🕉*
+### 🙏 ॐ नमः शिवाय
+> “Harnessing the Power of Data, Driven by Devotion, Creativity, and Movement.”
 
 ---
 
-### 🔧 **Tech Stack**
+## 👋 नमस्ते! I'm Aadit Sharma Shiwakoti
 
-**💻 Languages**  
+A Data Scientist deeply passionate about turning data into impactful solutions.  
+An AI/ML explorer, Business Architect, **Dancer**, and a **Fitness Freak** — I love exercising, working out, and staying mentally & physically balanced.  
+I blend science with soul and creativity with code.
+
+---
+
+### 🔭 **Currently Exploring**
+- Machine Learning & Deep Learning
+- Business Analytics & Data-Driven Solutions
+- Creative Self-Expression through Dance & Fitness
+
+---
+
+### ⚙️ **Tech Stack Galaxy**
+
+**🌌 Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**📊 Data Science Tools**  
+**📊 Data Universe**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**🗃️ Databases**  
+**🗄️ Data Storage**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**🌐 Web**  
+**🌐 Web Dimensions**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 📊 **GitHub Stats**
+### 📈 **Code Pulse**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aadit1011&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
@@ -56,18 +58,12 @@
 
 ---
 
-### ✨ **Art of Duality: Data Meets Dance**
-
-> **“When logic meets rhythm, data becomes movement.”**  
-> I channel the same curiosity and discipline from coding into dance. Whether it's lines of code or lines of choreography—both are forms of expression.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300"/>
-</div>
+### 🐍 **Contribution Flow**
+![Snake Animation](https://raw.githubusercontent.com/aadit1011/aadit1011/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🌟 **Let's Connect**
+### 🌐 **Let’s Connect & Collaborate**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aadit-sharma-a74463279)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/aaditsharma_shiwakoti)
@@ -76,10 +72,9 @@
 
 ---
 
-### 🐍 **Contribution Snake Animation**
-![Snake animation](https://raw.githubusercontent.com/aadit1011/aadit1011/output/github-contribution-grid-snake.svg)
+### 🌟 **Personal Motto**
+
+> "Dance through the chaos, code through the patterns, and keep growing through every beat of life."
 
 ---
 
-### 🧠 **Quote to Live By**
-> “Discipline in practice, creativity in expression.”
