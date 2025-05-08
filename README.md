@@ -8,25 +8,45 @@
 
 ---
 
-### 🙏 ॐ नमः शिवाय
-> “Harnessing the Power of Data, Driven by Devotion, Creativity, and Movement.”
+<!-- Dynamic & Creative “About Me” Section -->
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=800&color=4B0082&center=true&vCenter=true&width=800&lines=🙏+ॐ+नमः+शिवाय;Harness+Data+%26+Devotion;Ignite+Creativity+%26+Movement" alt="Dynamic Typing Om Shivaya" />
+</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" alt="Flowing Energy" />
+</div>
 
 ---
 
-## 👋 Hi! I'm Aadit Sharma Shiwakoti
+## 👋 **Hello, World!**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=600&color=008080&center=true&vCenter=true&width=700&lines=I+am+Aadit+Sharma+Shiwakoti;Data+Scientist+%F0%9F%93%9B;AI%2FML+Explorer+%F0%9F%A7%A0;Business+Architect+%F0%9F%92%BC;Dancer+%F0%9F%92%83;Fitness+Freak+%F0%9F%92%AA" alt="Dynamic Typing Titles" />
+</p>
 
-A Data Scientist deeply passionate about turning data into impactful solutions.  
-An AI/ML explorer, Business Architect, **Dancer**, and a **Fitness Freak** — I love exercising, working out, and staying mentally & physically balanced.  
-I blend science with soul and creativity with code.
+<p align="center">
+  <em>Blending <strong>science</strong> with <strong>soul</strong>, and <strong>code</strong> with <strong>creativity</strong>.</em>
+</p>
+
+---
+
+### 🔭 **Currently Exploring**  
+<details>
+  <summary>Click to unfold my journey ➤</summary>
+  <ul>
+    <li>🤖 <strong>Deep Learning</strong>: Architecting neural solutions that learn.</li>
+    <li>📊 <strong>Business Analytics</strong>: Turning insights into strategy.</li>
+    <li>💃🏻 <strong>Dance & Fitness</strong>: Movement as mindful expression and strength.</li>
+  </ul>
+</details>
 
 ---
 
-### 🔭 **Currently Exploring**
-- Machine Learning & Deep Learning
-- Business Analytics & Data-Driven Solutions
-- Creative Self-Expression through Dance & Fitness
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="100" alt="Pulse Animation" />
+</p>
 
----
 
 ### ⚙️ **Tech Stack Galaxy**
 
