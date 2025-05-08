@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=4000&weight=600&color=6366F1&center=true&vCenter=true&width=900&lines=%F0%9F%95%89+Om+Namah+Shivaya;Welcome+%F0%9F%93%9B;Aadit+Sharma+Shiwakoti;Data+Scientist+%F0%9F%93%8A;AI%2FML+Explorer+%F0%9F%A7%A0;Business+Architect+%F0%9F%92%BC;Dancer+%F0%9F%92%83;Fitness+Freak+%F0%9F%92%AA;Building+Intelligent+Solutions+Through+Data+%F0%9F%93%8A" alt="Header Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=4000&weight=600&color=6366F1&center=true&vCenter=true&width=900&lines=%F0%9F%95%89+Om+Namah+Shivaya;Welcome+%F0%9F%93%9B;Aadit+Sharma+Shiwakoti;Data+Scientist+%F0%9F%93%8A;AI%2FML+Explorer+%F0%9F%A7%A0;Strategic+Business+Visionary+%F0%9F%92%BC;Dancer+%F0%9F%95%BA;Fitness+Freak+%F0%9F%92%AA;Building+Intelligent+Solutions+Through+Data+%F0%9F%93%8A" alt="Header Typing Animation" />
 </h1>
 
 <div align="center">
