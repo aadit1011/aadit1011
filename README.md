@@ -68,9 +68,13 @@
 ---
 
 
-### 🐍 GitHub Contribution Snake
+### 💡 Activity & Vibe
 
-![Contribution Snake](https://raw.githubusercontent.com/aadit1011/aadit1011/master/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Coding Animation" />
+</p>
+
+> *“Where bytes become insights and every line of code tells a story.”*
 
 
 ---
