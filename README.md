@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=4000&weight=600&color=6366F1&center=true&vCenter=true&width=1000&lines=Om+Namah+Shivaya+🕉;Hi,+I+am+Aadit+Sharma+Shiwakoti+%F0%9F%91%8B;Data+Scientist+%F0%9F%93%8A+%7C+ML+%F0%9F%A7%A0+%7C+AI+Explorer+%F0%9F%94%8E+%7C+Dancer+%F0%9F%92%83%EF%B8%8F;Transforming+Data+into+Intelligence+and+Art" alt="Typing Animation Header" />
 </h1>
@@ -20,7 +21,7 @@
 ### 🚀 **About Me**
 - **Name**: Aadit Sharma Shiwakoti
 - **Profession**: Aspiring Data Scientist | AI & Machine Learning Explorer
-- **Hobbies**: Dancing, Building Data Projects, Meditation
+- **Hobbies**: Dancing, Building Data Projects, Meditation, Fitness & Gym 💪
 - **Spiritual Belief**: *🕉Om Namah Shivaya🕉*
 
 ---
