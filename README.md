@@ -71,13 +71,11 @@
 
 ---
 
----
-
-
 
 ### 🐍 GitHub Contribution Snake
 
-![Contribution Snake](https://raw.githubusercontent.com/aadit1011/aadit1011/master/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/aadit1011/aadit1011/master/github-contribution-grid-snake.svg)
+
 
 ---
 
