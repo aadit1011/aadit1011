@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 नमस्ते! I'm Aadit Sharma Shiwakoti
+## 👋 Hi! I'm Aadit Sharma Shiwakoti
 
 A Data Scientist deeply passionate about turning data into impactful solutions.  
 An AI/ML explorer, Business Architect, **Dancer**, and a **Fitness Freak** — I love exercising, working out, and staying mentally & physically balanced.  
