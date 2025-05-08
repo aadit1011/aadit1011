@@ -68,7 +68,7 @@
 ---
 
 
-### 📈 Developer Metrics Dashboard
+### 🚀 Code Impact Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aadit1011&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="500" alt="GitHub Stats" />
@@ -78,7 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadit1011&layout=compact&theme=dark&hide_border=true" width="500" alt="Top Languages" />
 </p>
 
-> “Quantifying expertise, one commit at a time.”  
+>"In a world full of noise, I find patterns."
 
 
 ---
