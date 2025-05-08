@@ -56,15 +56,11 @@
   <!-- Data Visualization & Tools -->
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <br>
   <!-- Databases & DevOps -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <br>
   <!-- Cloud & Other Tools -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </div>
@@ -72,9 +68,9 @@
 ---
 
 
-### 🐍 GitHub Contribution Snake
+### 📊 GitHub Activity Graph
 
-![Contribution Snake](https://raw.githubusercontent.com/aadit1011/aadit1011/master/github-contribution-grid-snake.svg)
+<img src="https://activity-graph.herokuapp.com/graph?username=aadit1011&theme=github&area=true" alt="Aadit Sharma Shiwakoti’s GitHub Activity Graph" />
 
 
 ---
